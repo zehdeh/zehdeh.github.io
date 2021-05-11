@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "A new perspective on Catastrophic Forgetting"
+layout: post
 ---
 # Introduction
 
