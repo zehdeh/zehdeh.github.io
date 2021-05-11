@@ -9,9 +9,12 @@ During the summer of 2020 I had a lot of time to think about some of my favorite
 
 > Despite the ubiquity of catastrophic forgetting, there is limited understanding of the underlying process and its causes.
 
+[[1]](##References)
 
 ## The mechanics behind the problem
 
 ## The bigger picture
+
+## References
 
 Hello **world**!
