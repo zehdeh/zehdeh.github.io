@@ -15,7 +15,7 @@ During the summer of 2020 I had a lot of time to think about some of my favorite
 
 [[1]](##References)
 
-I was surprised by this, because I was aware that this problem has been around since the mid-eighties and numerous attempts have been made at solving CF. I had been vaguely following the research and had a rough understanding of the proposed solutions. Still, it made me question my own understanding of the problem again and I had a look at the paper by McCloskey & Cohen [[2]](##References) that introduced CF.
+I was surprised by this, because I was aware that this problem has been around since the mid-eighties and numerous attempts have been made at solving CF. I had been vaguely following the research and had a rough idea of the proposed solutions. Still, it made me question my own understanding of the problem again and I had a look at the paper by McCloskey & Cohen [[2]](##References) that introduced CF.
 
 That's when I realized that we might have approached the problem, and therefore any attempt at solving it, in the wrong way. Considering CF in the larger context of our quest in the ML research community to make progress towards artificial general intelligence (AGI), it might be that, due to the constraints the fundamental assumptions of connectionism put upon our models, there is no meaningful way to *solve* catastrophic interference, because even an ideal solution would not lead to more powerful models.
 
