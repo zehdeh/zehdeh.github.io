@@ -2,10 +2,11 @@
 title: "A new perspective on Catastrophic Forgetting"
 layout: post
 ---
-# Introduction
+
+# {{ page.title }}
 
 ## The mechanics of Catastropic Forgetting
 
-# The bigger picture
+## The bigger picture
 
-Hello _world_!
+Hello **world**!
