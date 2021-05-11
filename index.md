@@ -1,6 +1,4 @@
----
-layout: post
----
+
 # A new perspective on Catastrophic Forgetting
 
 ## Introduction
